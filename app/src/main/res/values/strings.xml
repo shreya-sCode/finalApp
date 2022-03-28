@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">spm_basic</string>
+    <string-array name="spinner_array" >
+        <item>Select</item>
+        <item>1BHK</item>
+        <item>2BHK</item>
+        <item>3BHK</item>
+        <item>+4BHK</item>
+    </string-array>
+</resources>
